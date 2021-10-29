@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = autofac
+build_property.ProjectDir = C:\projects\tutorial\autofac-IoC\autofac\autofac\

@@ -1,0 +1,17 @@
+C:\projects\tutorial\autofac-IoC\autofac\autofac\bin\Debug\netcoreapp3.1\DemoApp.exe
+C:\projects\tutorial\autofac-IoC\autofac\autofac\bin\Debug\netcoreapp3.1\DemoApp.deps.json
+C:\projects\tutorial\autofac-IoC\autofac\autofac\bin\Debug\netcoreapp3.1\DemoApp.runtimeconfig.json
+C:\projects\tutorial\autofac-IoC\autofac\autofac\bin\Debug\netcoreapp3.1\DemoApp.runtimeconfig.dev.json
+C:\projects\tutorial\autofac-IoC\autofac\autofac\bin\Debug\netcoreapp3.1\DemoApp.dll
+C:\projects\tutorial\autofac-IoC\autofac\autofac\bin\Debug\netcoreapp3.1\DemoApp.pdb
+C:\projects\tutorial\autofac-IoC\autofac\autofac\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\projects\tutorial\autofac-IoC\autofac\autofac\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\projects\tutorial\autofac-IoC\autofac\autofac\obj\Debug\netcoreapp3.1\DemoApp.csproj.AssemblyReference.cache
+C:\projects\tutorial\autofac-IoC\autofac\autofac\obj\Debug\netcoreapp3.1\DemoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\tutorial\autofac-IoC\autofac\autofac\obj\Debug\netcoreapp3.1\DemoApp.AssemblyInfoInputs.cache
+C:\projects\tutorial\autofac-IoC\autofac\autofac\obj\Debug\netcoreapp3.1\DemoApp.AssemblyInfo.cs
+C:\projects\tutorial\autofac-IoC\autofac\autofac\obj\Debug\netcoreapp3.1\DemoApp.csproj.CoreCompileInputs.cache
+C:\projects\tutorial\autofac-IoC\autofac\autofac\obj\Debug\netcoreapp3.1\DemoApp.csproj.CopyComplete
+C:\projects\tutorial\autofac-IoC\autofac\autofac\obj\Debug\netcoreapp3.1\DemoApp.dll
+C:\projects\tutorial\autofac-IoC\autofac\autofac\obj\Debug\netcoreapp3.1\DemoApp.pdb
+C:\projects\tutorial\autofac-IoC\autofac\autofac\obj\Debug\netcoreapp3.1\DemoApp.genruntimeconfig.cache
